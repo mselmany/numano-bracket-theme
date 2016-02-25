@@ -1,0 +1,15 @@
+{
+    "name": "mselmany-theme-light",
+    "title": "mselmany Theme - Light",
+    "description": "UI and Editor theme",
+    "author": "mselmany - https://twitter.com/mselmany",
+    "homepage": "https://github.com/mselmany",
+    "keywords": ["theme","UI","editor"],
+    "license": "MIT",
+    "version": "1.0.0",
+    "theme": {
+        "file": "style.less",
+        "dark": false,
+        "addModeClass": true
+    }
+}
